@@ -1,7 +1,5 @@
 # README
-##how to use Github Desktop
-## how to use git revert
-
+## how to use GitHub Desktop
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
